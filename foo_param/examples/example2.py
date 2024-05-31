@@ -1,8 +1,6 @@
-# example2.py
-# add a prompt which gives a description of what the user should enter
-
-
-
+# This script prompts the user to enter the radius of a sphere and calculates its volume.
+# The calculate_volume function from the foo_param module is used to calculate the volume of the sphere.
+# The user input is validated to ensure that the radius is a non-negative number.
 
 from foo_param.core import calculate_volume
 
