@@ -9,4 +9,5 @@ def validate_radius(radius):
     Returns:
     bool: True if the radius is valid, else False.
     """
+    
     return radius >= 0

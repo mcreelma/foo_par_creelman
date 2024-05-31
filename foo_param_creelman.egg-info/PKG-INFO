@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: foo_param_creelman
+Version: 0.1
+Summary: A package designed to calculate the Foo et al. parameterization.
+Home-page: https://github.com/mcreelma/foo_par_creelman
+Author: Mitchell Creelman
+Author-email: mitchcreelman@gmail.com.com
+License-File: LICENSE
