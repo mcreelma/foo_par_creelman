@@ -4,13 +4,9 @@ To install the foo_param package, navigate to the directory containing setup.py 
 
 pip install .
 
-This will install the package and its dependencies listed in requirements.txt.
-
-
 # Basic Usage
 
 The primary functionality of the foo_param package is to calculate the volume of a sphere given its radius. Below is an example of how to use the calculate_volume function.
-
 
 ## Example 1: Calculating the Volume of a Sphere
 
@@ -32,7 +28,7 @@ print(f"The volume of the sphere with radius {radius} is {volume:.2f}")
 We have included example scripts in the examples directory. These scripts demonstrate how to use the package in different scenarios.
 Example 2: Calculating Volumes for Multiple Radii
 
-python
+## python
 
 # example1.py
 
