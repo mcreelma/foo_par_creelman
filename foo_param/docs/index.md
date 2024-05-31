@@ -18,6 +18,7 @@ The `foo_param` package is designed to compute the volume of a sphere given its 
 
 To install the `foo_param` package, navigate to the directory containing `setup.py` and run:
 
+```sh
 pip install .
 
 This will install the package and its dependencies listed in requirements.txt.
