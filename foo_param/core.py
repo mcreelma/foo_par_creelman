@@ -12,9 +12,11 @@ def calculate_volume(radius):
     float: The volume of the sphere.
     """
     
-    if radius < 0:
+    if radius < 0: # Check if the radius is negative
         raise ValueError("Radius must be non-negative.")
     
+    # actual calculation of the volume
     volume = (4/3) * math.pi * (radius ** 3)
     
+    # return the volume
     return volume
