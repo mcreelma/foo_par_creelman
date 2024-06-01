@@ -1,5 +1,3 @@
-markdown
-
 # Foo Parameterization Package
 
 Welcome to the documentation for the `foo_param` package, which provides a neat and tidy package to include calculations of the Foo et al. parameterization.
@@ -28,7 +26,7 @@ Once the package has been installed, you can use any of the core functionalities
 # Usage Sample
 Here is a quick example of how to use the foo_param package for a python script:
 
-```sh
+```py
 from foo_param import calculate_volume
 
 # Define the radius of the sphere
