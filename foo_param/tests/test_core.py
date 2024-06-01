@@ -1,5 +1,5 @@
 # This is a test script to check the basic functionality of the foo_param package
-# in the future, if the package is updated, this script should be run to ensure that the essential functions are working as expected.
+# If the package is updated, this script should be run to ensure that the essential functions are working as expected.
 
 # Import the unittest module
 import unittest

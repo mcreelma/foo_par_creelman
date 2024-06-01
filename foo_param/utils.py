@@ -1,6 +1,5 @@
 # a sample utility function to validate the radius of a sphere for non-negativity.
 # This function can be used to validate user input or input from other sources to ensure that the radius is a valid value. 
-# The function would serve as a check for collaborative users.
 def validate_radius(radius):
     """
     Validate that the radius is a non-negative number.

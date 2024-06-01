@@ -2,11 +2,11 @@ markdown
 
 # Foo Parameterization Package
 
-Welcome to the documentation for the `foo_param` package, which provides a parameterization to calculate the volume of a sphere.
+Welcome to the documentation for the `foo_param` package, which provides a neat and tidy package to include calculations of the Foo et al. parameterization.
 
 ## Overview
 
-The `foo_param` package is designed to compute the volume of a sphere given its radius using the Foo et al. parameterization. This package is intended to be a community project with the expectation of continuous development and contributions from various users over the years.
+The `foo_param` package is designed to compute the volume of a sphere given its radius using the methodology outlined by Foo et al. (2017). This package is intended to be a community project with the expectation of continuous development and contributions from various users over the years.
 
 ## Key Features
 

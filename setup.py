@@ -6,7 +6,7 @@ with open('requirements.txt') as f:
     requirements = f.read().splitlines()
 
 setup(
-    name='foo_param_creelman',
+    name='foo_param',
     version='0.1',
     packages=find_packages(),
     install_requires=requirements,  # Read dependencies from requirements.txt

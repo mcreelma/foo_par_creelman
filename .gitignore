@@ -1,2 +1,9 @@
-foo_param
-foo_param_creelman.egg-info
+*.pyc
+__pycache__/
+.env
+.venv
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
