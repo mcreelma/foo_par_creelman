@@ -16,21 +16,20 @@ The `foo_param` package is designed to compute the volume of a sphere given its 
 
 ## Installation
 
-To install the `foo_param` package, navigate to the directory containing `setup.py` and run:
+The `foo_param` package, is designed to be easy to install in any python environment or manager. 
+Simply activate your environment of choice and type:
 
 ```sh
-pip install .
+pip install foo_param
 ```
 
-This will install the package and its dependencies listed in requirements.txt.
-Usage
+Once the package has been installed, you can use any of the core functionalities in your python code
 
-
-# Usage 
+# Usage Sample
 Here is a quick example of how to use the foo_param package for a python script:
 
 ```sh
-from foo_param.core import calculate_volume
+from foo_param import calculate_volume
 
 # Define the radius of the sphere
 radius = 5
@@ -44,16 +43,16 @@ print(f"The volume of the sphere with radius {radius} is {volume:.2f}")
 ```
 
 For more detailed usage instructions and examples, please refer to the Usage Guide.
-Contributing
 
-We welcome contributions to the foo_param package! If you are interested in contributing, please refer to the Contributing Guide for guidelines on how to get started.
-License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-Getting Help
+# Contributing 
+
+Foo param is developed with a philosophy of open and continuous development. To this end, we have included best practices for contributing in the docs section of this package
+
+
+
+# Getting Help
 
 If you encounter any issues or have questions, feel free to open an issue on our GitHub repository.
-Documentation Sections
 
-    Usage Guide
-    Contributing Guide
+This project is licensed under the MIT License. See the LICENSE file for details.
