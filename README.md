@@ -4,7 +4,17 @@ Welcome to the documentation for the `foo_param` package, which provides a neat 
 
 ## Overview
 
-The `foo_param` package is designed to compute the volume of a sphere given its radius using the methodology outlined by Foo et al. (2017). This package is intended to be a community project with the expectation of continuous development and contributions from various users over the years.
+The `foo_param` package is designed to compute the volume of a sphere given its radius using the methodology outlined by Foo et al. (2017). 
+
+The core of the package centers around the following 
+
+$$
+V = \frac{4}{3} \pi r^3
+$$
+
+Where V is the Foo Parameter, and r is the input radius.
+
+This package is intended to be a community project with the expectation of continuous development and contributions from various users over the years.
 
 ## Key Features
 
