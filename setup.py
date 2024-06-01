@@ -18,5 +18,5 @@ setup(
     author='Mitchell Creelman',
     author_email='mitchcreelman@gmail.com.com',
     description='A package designed to calculate the Foo et al. parameterization.',
-    url='https://github.com/mcreelma/foo_par_creelman',
+    url='https://github.com/mcreelma/foo_param',
 )
