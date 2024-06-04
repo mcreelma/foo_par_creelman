@@ -20,7 +20,7 @@ This package is intended to be a community project with the expectation of conti
 
 - **Simple API**: Easily calculate the volume of a sphere with a single function call.
 - **Error Handling**: Gracefully handles invalid input, such as negative radius values.
-- **Community-Driven**: Designed to be extended and improved by a wide range of contributors.
+- **Community-Driven**: Designed to make contributions easy for open-source improvements.
 
 ## Installation
 
@@ -55,7 +55,7 @@ For more detailed usage instructions and examples, please refer to the Usage Gui
 
 # Contributing 
 
-Foo param is developed with a philosophy of open and continuous development. To this end, we have included best practices for contributing in the docs section of this package
+Foo param is developed with a philosophy of open and continuous development. To this end, we have included best practices for contributing in the CONTRIBUTING.md file of this package
 
 
 

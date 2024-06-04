@@ -1,4 +1,3 @@
-# foo_param/core.py
 import math
 
 def calculate_volume(radius):

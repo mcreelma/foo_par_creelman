@@ -19,3 +19,6 @@ To run tests, use:
 
 ```sh
 python -m unittest discover -s foo_param/tests
+```
+
+If there are no conflicts, you will receive an OK message. Otherwise, please follow the appropriate errors to solving any conflicts before committing.
